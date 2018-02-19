@@ -5,6 +5,14 @@
 @Product name: PyCharm
 @Time: 2018/2/14 9:23
 @Author: ldgang
+步骤：
+1,定义算法公式，softmax(wx+b)
+2,定义代价函数，loss = -sum(y_*log(y))
+3,选定优化器，gradientDescentOptimizer,并给优化器制定代价函数
+4，训练
+5，测试
+6，使用
+
 '''
 
 '''
